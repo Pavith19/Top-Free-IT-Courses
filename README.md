@@ -227,9 +227,6 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-You can place this organized list in the relevant section of your README file.
-
-
 ## Android 📱
 
 ### Udacity 🎓
