@@ -44,7 +44,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Blockchain](#blockchain)**
 - **[C Programming](#c-programming)**
 - **[C#](#c-sharp-programming)**
-- **[C++](#cpp)**
+- **[C++](#C++-Programming)**
 - **[Cloud Computing](#cloud-computing)**
   - **[AWS](#aws)**
   - **[Azure](#azure)**
@@ -427,8 +427,45 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
+## [C++ Programming]()
 
+### 🎓 Udacity
+- [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa
 
+### 📺 YouTube
+- [C++ Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) - Neso Academy
+- [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o) - Daniel Gakwaya (freeCodeCamp)
+- [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) - ProgrammingKnowledge
+- [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM) - The Bad Tutorials
+- [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane (freeCodeCamp)
+- [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8) - Programming with Mosh
 
+### 🎓 Udemy
+- [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) - John Purcell
+
+### 🎓 Google
+- [Google's C++ Course](https://developers.google.com/edu/c++)
+
+### 🎓 MIT OpenCourseWare
+- [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
+
+### 🎓 edX
+- [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft
+
+### 🎓 SoloLearn
+- [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
+
+---
+
+### [Cloud Computing]()
+
+### 🎓 UAceIt
+- [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy 
+
+### 📺 YouTube
+- [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
+
+### 🎓 CognitiveClass.ai
+- [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud)
 
 
