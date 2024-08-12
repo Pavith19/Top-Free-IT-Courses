@@ -5,7 +5,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 > **Feel free to** ⭐ **Star**, 🍴 **Fork**, and 📤 **Share** this repository to help others in the community.  
 ---
 
-## Recommended Learning Platforms
+## 📚 Recommended Learning Platforms 💻 
 
 ### Interactive Coding Platforms
 
