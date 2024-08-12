@@ -144,7 +144,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Web3](#web3)**
 - **[YAML](#yaml)**
 
-# Learning Resources
+# 📚 Learning Resources
 
 ## Algorithms & Data Structures 
 
