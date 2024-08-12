@@ -46,9 +46,6 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[C#](#c-sharp-programming)**
 - **[C++](#C++-Programming)**
 - **[Cloud Computing](#cloud-computing)**
-  - **[AWS](#aws)**
-  - **[Azure](#azure)**
-  - **[IBM](#ibm)**
 - **[Computer Organization and Architecture](#computer-organization-and-architecture)**
 - **[Computer Science](#computer-science)**
 - **[Cryptography](#cryptography)**
@@ -457,15 +454,40 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-### [Cloud Computing]()
+## [Cloud Computing]()
 
 ### 🎓 UAceIt
-- [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy 
+- [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (*email address required*)
 
 ### 📺 YouTube
 - [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
+- [AWS Certified Cloud Practitioner Course](https://youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
+- [AWS Tutorial For Beginners](https://youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
+- [Azure Administrator Certification](https://www.youtube.com/watch?v=10PbGbTUSAg) - freeCodeCamp
+- [Microsoft Azure Fundamentals](https://youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) - Adam Marczak
 
 ### 🎓 CognitiveClass.ai
 - [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud)
+- [Getting started with IBM Cloud](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - Horea Porutiu, Steve Martinelli
+- [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials)
+
+### 🎓 Trailhead (Salesforce)
+- [Cloud Computing Basics with AWS](https://trailhead.salesforce.com/content/learn/modules/aws-cloud) (*email address required*)
+
+### 🎓 Microsoft
+- [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+
+---
+
+## [Computer Organization and Architecture]()
+
+### 📺 YouTube
+- [Advanced Computer Architecture](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWZMIh4_V5dGroMAwA84Lmz) - Smruti R. Sarangi
+- [Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q) - Neso Academy
+
+---
+
+
+
 
 
