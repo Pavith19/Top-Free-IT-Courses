@@ -288,5 +288,55 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão**  
   A unique video series that teaches APL in the context of neural networks, suitable for those looking to explore advanced applications of APL.
 
+## Artificial Intelligence 
+
+### Intel Corporation 🎓
+
+- **[AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html)**  
+  A collection of AI training courses provided by Intel Corporation.
+
+### Microsoft Azure (Udacity) 🎓
+
+- **[AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099)**  
+  A course on the fundamentals of AI, available through Microsoft Azure on Udacity.
+
+### YouTube Playlists 📺
+
+- **[Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino**  
+  A playlist covering Ambient Intelligence from the AML-2018 series.
+  
+- **[Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering**  
+  Learn about AI on Google Cloud Platform through this informative playlist.
+  
+- **[Artificial Intelligence Search Methods For Problem Solving](https://youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd**  
+  Explore AI search methods and problem-solving techniques in this playlist.
+
+### Harvard OpenCourseWare and edX 🎓
+
+- **[CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan**  
+  Harvard's CS50 course on AI with Python, offered through OpenCourseWare and edX.
+
+### University of Helsinki, Reaktor 🎓
+
+- **[Elements of AI](https://www.elementsofai.com)**  
+  A free online course by the University of Helsinki and Reaktor to learn the basics of AI.
+
+### Coursera 🎓
+
+- **[IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al.**  
+  A professional certificate program in AI engineering provided by IBM on Coursera.
+  
+- **[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai**  
+  A Coursera course on TensorFlow for various AI applications, offered by DeepLearning.ai.
+
+### MIT 🎓
+
+- **[MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.**  
+  A collection of deep learning and AI lectures from MIT, hosted by Lex Fridman.
+
+- **[MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston**  
+  An introductory AI course from MIT OpenCourseWare, featuring Prof. Patrick Henry Winston.
+
+
 
 
