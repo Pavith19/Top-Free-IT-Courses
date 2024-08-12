@@ -148,7 +148,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 # Algorithms & Data Structures 
 
-## YouTube
+## YouTube 📺
 
 - [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
@@ -172,14 +172,14 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 - [Top 10 Algorithms & Data Structures for Competitive Programming](https://www.youtube.com/watch?v=rjji9eB9e_A) - Gaurav Sen
 
-## Coursera
+## Coursera 🎓
 
 - [Algorithms](https://www.coursera.org/learn/algorithms-part1) - Princeton University, Part 1
 - [Algorithms](https://www.coursera.org/learn/algorithms-part2) - Princeton University, Part 2
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 - [Data Structures](https://www.coursera.org/learn/data-structures) - UC San Diego's Data Structures
 
-## MIT OpenCourseWare
+## MIT OpenCourseWare 🎓
 
 - [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - Erik Demaine
 - [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
@@ -187,40 +187,40 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - [MIT's Introduction to Algorithms (Fall 2011)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
 
-## UC Berkeley
+## UC Berkeley 🎓
 
 - [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 - [UC Berkeley's CS 61B - Data Structures](https://sp21.datastructur.es/) (Spring 2021)
 - [UC Berkeley's CS 61B - Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 
-## Stanford Online
+## Stanford Online 🎓
 
 - [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 - [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycsalgorithms2-algorithms-design-and-analysis-part-2)
 
-## Udacity
+## Udacity 🎓
 
 - [Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
 - [Udacity's Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
 - [Udacity's Data Structures & Algorithms Nanodegree](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
 
-## Programiz
+## Programiz 🎓
 
 - [Learn DS and Algorithms](https://www.programiz.com/dsa)
 
-## EdX
+## EdX 🎓
 
 - [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 
-## Google Tech Dev Guide
+## Google Tech Dev Guide 🎓
 
 - [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true) - Tech Dev Guide by Google
 
-## Stepik
+## Stepik 🎓
 
 - [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich
 
-## Udemy
+## Udemy 🎓
 
 - [Data Structures in C++ - For Beginners](https://www.udemy.com/course/data-structures-for-beginners-c-plusplus) - Pedro Mercado
 - [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
@@ -232,7 +232,7 @@ You can place this organized list in the relevant section of your README file.
 
 ## Android 📱
 
-### Udacity Courses 🎓
+### Udacity 🎓
 - [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 - [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
@@ -249,7 +249,7 @@ You can place this organized list in the relevant section of your README file.
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 
-### YouTube Playlists 📺
+### YouTube 📺
 - [Android App Development for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) - Bucky Roberts (thenewboston)
 - [Android with Kotlin](https://youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Smartherd
 - [CS194A Android Development](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDcLkbXsQADdvBnVbavonGn) - Rahul Pandey (Stanford)
