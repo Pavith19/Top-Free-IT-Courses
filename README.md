@@ -338,7 +338,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-## [Bash / Shell Resources]()
+## [Bash / Shell]()
 
 ### 🎓 Udemy 
 
@@ -366,7 +366,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-## [Blockchain Resources]()
+## [Blockchain]()
 
 ### 🎓 CognitiveClass.ai
 
@@ -397,6 +397,33 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[CryptoZombies.io](https://cryptozombies.io)** - CleverFlare, Loom Network
 
 ---
+
+## [C Programming]()
+
+### 📺 YouTube Playlists
+
+- **[C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)** - Sujeet Singh (Neso Academy)
+- **[C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)** - Sujeet Singh (Neso Academy)
+- **[C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)** - Programiz
+- **[C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)**
+- **[Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)** - Jenny's lectures CS/IT NET&JRF 
+
+### 📺 YouTube Videos
+
+- **[C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE)** - ProgrammingWithHarry
+- **[C Programming 2021: Master The Basics!](https://www.udemy.com/course/c-programming-2019-master-the-basics/)** - Ali Badran (Udemy)
+- **[C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)** - Mike Dane (freeCodeCamp)
+
+### 🎓 Programiz
+
+- **[Learn C Programming](https://www.programiz.com/c-programming)**
+
+### 🎓 Coursera
+
+- **[The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)**
+
+---
+
 
 
 
