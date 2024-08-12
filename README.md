@@ -686,3 +686,62 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 ### 📺 SQL Tutorial (YouTube Playlist)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 
+---
+
+## [Deep Learning]()
+
+### 🎓 spaCy
+* [Advanced NLP using spaCy](https://course.spacy.io) - Ines Montani
+
+### 📺 Krish Naik
+* [Complete Deep Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+
+### 🎓 Stanford University
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
+* [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
+* [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu) - Chelsea Finn
+* [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - Sergey Levine
+
+### 🎓 Coursera
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
+### 📺 freeCodeCamp.org
+* [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) - Aakash N. S.
+
+### 🎓 Jovian
+* [Deep Learning with Pytorch: Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans)
+
+### 📺 codebasics
+* [Deep Learning With Tensorflow 2.0 and Keras](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+
+### 🎓 MIT OpenCourseWare
+* [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020) - Dr. Richard Fletcher, Prof. Daniel Frey, Dr. Mike Teodorescu, Amit Gandhi, Audace Nakeshimana
+* [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
+* [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
+
+### 📺 Nicholas Renotte
+* [Full Stack Computer Vision Tutorial with Tensorflow, Python, Tensorflow.JS with React.JS](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr)
+
+### 🎓 Kaggle
+* [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
+
+### 📺 David Silver
+* [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
+
+### 📺 NYU Deep Learning SP21
+* [NYU Deep Learning SP21](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - Alfredo Canziani
+
+### 🎓 fast.ai
+* [Practical Deep Learning For Coders](http://www.fast.ai) - Jeremy Howard
+* [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
+
+### 🎓 NVIDIA
+* [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
+
+### 🎓 Stanford University
+* [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
+
+### 🎓 Udacity
+* [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+
+---
