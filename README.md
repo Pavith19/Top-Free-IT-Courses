@@ -146,7 +146,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 # 📚 Learning Resources
 
-## Algorithms & Data Structures 
+## [Algorithms & Data Structures]()
 
 ### YouTube 📺
 
