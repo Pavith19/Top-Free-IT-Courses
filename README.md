@@ -36,9 +36,6 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-Feel free to add more platforms or adjust based on your preferences!
-
-
 ## 📚 Course Index
 
 - **[MOOC](#mooc)**
@@ -149,8 +146,6 @@ Feel free to add more platforms or adjust based on your preferences!
 - **[YAML](#yaml)**
 
 # Learning Resources
-
-
 
 ## Algorithms & Data Structures
 
