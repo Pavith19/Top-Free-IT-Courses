@@ -364,6 +364,39 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 - **[Bento Shell Track](https://bento.io/topic/shell)** - Jon Chan
 
+---
+
+## [Blockchain Resources]()
+
+### 🎓 CognitiveClass.ai
+
+- **[Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course)**
+- **[Build an IoT Blockchain Network for a Supply Chain](https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network)**
+
+### 🎓 Coursera
+
+- **[Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)** - ConsenSys Academy
+- **[Blockchain Specialization](https://www.coursera.org/specializations/blockchain)** - Bina Ramamurthy
+
+### 📺 YouTube Playlists
+
+- **[Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id)** - Gregory McCubbin (Dapp University)
+- **[Blockchain Tutorial for beginners](https://www.youtube.com/playlist?list=PLxbAS7NVaSZKKxoVuQxKK2k0c8S4t_m8O)** - BlockTrain
+
+### 📺 YouTube Videos
+
+- **[Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw)** - Julien Klepatch, EatTheBlocks (freeCodeCamp.org)
+- **[Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)** - Patrick Collins (freeCodeCamp.org)
+
+### 🎓 Udemy
+
+- **[Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/)** - Gary Simon
+
+### 🌐 CryptoZombies.io
+
+- **[CryptoZombies.io](https://cryptozombies.io)** - CleverFlare, Loom Network
+
+
 
 
 
