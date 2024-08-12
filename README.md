@@ -224,7 +224,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-## Android 
+## [Android]()
 
 ### Udacity 🎓
 - [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
@@ -265,7 +265,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 - [Learn How to Program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 
-## APL 
+## [APL]()
 
 ### Dyalog 🎓
 
@@ -285,7 +285,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão**  
   A unique video series that teaches APL in the context of neural networks, suitable for those looking to explore advanced applications of APL.
 
-## Artificial Intelligence 
+## [Artificial Intelligence]()
 
 ### Intel Corporation 🎓
 
@@ -334,7 +334,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston**  
   An introductory AI course from MIT OpenCourseWare, featuring Prof. Patrick Henry Winston.
 
-## Bash / Shell Resources
+## [Bash / Shell Resources]()
 
 ### Udemy 🎓
 
