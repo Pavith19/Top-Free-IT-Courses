@@ -636,4 +636,53 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
+## [NoSQL]()
+
+### 🎓 Datastax Inc.
+* [Datastax Academy (Apache Cassandra)](https://www.datastax.com/dev/academy) *(email address required)*
+
+### 🎓 MongoDB, Inc.
+* [MongoDB University](https://university.mongodb.com) *(email address required)*
+
+### 📺 Laith Academy
+* [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s)
+
+### 📺 Satish C J
+* [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh)
+
+### 🎓 Redis Inc.
+* [Redis University](https://university.redis.com) *(email address required)*
+
+---
+
+## [SQL]()
+
+### 🎓 Cockroach Labs Inc.
+* [Getting Started with SQL for Application Developers](https://university.cockroachlabs.com/courses/course-v1:crl+getting-started-with-sql-for-app-devs+self-paced/about) - Wade Waldron *(email address required)*
+* [Introduction to Distributed SQL and CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about) - Lauren Hirata Singh and Will Cross *(email address required)*
+
+### 🎓 edX (New York University)
+* [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - Aspen Olmsted
+
+### 🎓 Udemy
+* [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan
+* [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri
+
+### 🎓 PopSQL
+* [Learn SQL](https://popsql.com/learn-sql)
+
+### 🎓 SoloLearn
+* [Learn SQL](https://www.sololearn.com/learning/1060) *(registration required)*
+
+### 🎓 Programiz
+* [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql)
+
+### 📺 Programming with Mosh
+* [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani
+
+### 📺 freeCodeCamp
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane
+
+### 📺 SQL Tutorial (YouTube Playlist)
+* [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 
