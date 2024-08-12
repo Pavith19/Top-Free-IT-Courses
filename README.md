@@ -43,18 +43,15 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Bash / Shell](#bash--shell)**
 - **[Blockchain](#blockchain)**
 - **[C Programming](#c-programming)**
-- **[C#](#csharp)**
+- **[C#](#c-sharp-programming)**
 - **[C++](#cpp)**
-- **[Clojure](#clojure)**
 - **[Cloud Computing](#cloud-computing)**
   - **[AWS](#aws)**
   - **[Azure](#azure)**
   - **[IBM](#ibm)**
-- **[Compilers](#compilers)**
 - **[Computer Organization and Architecture](#computer-organization-and-architecture)**
 - **[Computer Science](#computer-science)**
 - **[Cryptography](#cryptography)**
-- **[CUDA](#cuda)**
 - **[Dart](#dart)**
 - **[Data Science](#data-science)**
 - **[Databases](#databases)**
@@ -69,7 +66,6 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Docker](#docker)**
 - **[Elastic](#elastic)**
 - **[Flutter](#flutter)**
-- **[Fortran](#fortran)**
 - **[Game Development](#game-development)**
 - **[Git](#git)**
 - **[Go](#go)**
@@ -89,26 +85,15 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
   - **[React Native](#react-native)**
   - **[Redux](#redux)**
   - **[Svelte](#svelte)**
-  - **[Three.js](#threejs)**
   - **[Vue.js](#vuejs)**
   - **[Webpack](#webpack)**
-- **[Julia](#julia)**
 - **[Kotlin](#kotlin)**
-- **[Kubernetes](#kubernetes)**
 - **[Linux](#linux)**
-- **[Lua](#lua)**
 - **[Machine Learning](#machine-learning)**
-- **[Markdown](#markdown)**
-- **[Matlab](#matlab)**
-  - **[Simulink](#simulink)**
-- **[Misc](#misc)**
 - **[.NET](#net)**
 - **[Networking](#networking)**
 - **[Objective-C](#objective-c)**
-- **[OCaml](#ocaml)**
 - **[Operating Systems](#operating-systems)**
-- **[Perl](#perl)**
-- **[Pharo](#pharo)**
 - **[PHP](#php)**
 - **[PLC - Programmable Logic Controllers](#plc---programmable-logic-controllers)**
 - **[Processing](#processing)**
@@ -116,13 +101,10 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
   - **[Django](#django)**
   - **[Flask](#flask)**
   - **[Jupyter](#jupyter)**
-- **[QB64](#qb64)**
 - **[R](#r)**
-- **[Redis](#redis)**
 - **[Robotics](#robotics)**
 - **[Ruby](#ruby)**
 - **[Rust](#rust)**
-- **[Scala](#scala)**
 - **[Security](#security)**
 - **[Software Engineering](#software-engineering)**
 - **[Solidity](#solidity)**
@@ -130,12 +112,9 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Swift](#swift)**
   - **[Vapor](#vapor)**
 - **[System Design](#system-design)**
-- **[Terraform](#terraform)**
-- **[Theory](#theory)**
 - **[TypeScript](#typescript)**
   - **[Angular](#angular)**
   - **[Deno](#deno)**
-- **[Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)**
 - **[Web Development](#web-development)**
 - **[Web3](#web3)**
 
@@ -424,8 +403,29 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
+## [C-Sharp Programming]()
 
+### 📺 YouTube
+- [Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022](https://www.youtube.com/watch?v=SR53SKIUYPA) - Gill Cleeren
+- [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry
+- [C# Programming Language (Console Applications)](https://youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends
+- [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)
+- [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
+- [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
 
+### 🎓 Microsoft
+- [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens
+
+### 🎓 Udemy
+- [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson
+
+### 🎓 SoloLearn
+- [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
+
+### 🎓 Epicodus Inc.
+- [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
+
+---
 
 
 
