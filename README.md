@@ -487,6 +487,58 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
+## [Computer Science]()
+
+### 📺 YouTube
+- [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
+- [Discrete Mathematics for Computer Science Specialization](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlXO4qEM5BOsBy6xWQNVFu8l) - My Lesson
+- [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) - MIT OpenCourseWare
+
+### 🎓 Archive.org
+- [Berkeley's CS 61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
+
+### 🎓 Coursera
+- [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
+
+### 🎓 edX
+- [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!) - LouvainX
+- [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1) - LouvainX
+
+### 🎓 MIT OpenCourseWare
+- [MIT's Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
+- [MIT's Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+- [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [MIT's Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
+---
+
+## [Cryptography]()
+
+### 🎓 Ruhr University Bochum
+- [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) - Christof Paar
+
+### 🎓 Coursera
+- [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
+- [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
+
+---
+
+## [Dart]()
+
+### 🎓 Udemy
+- [Dart Course for Beginners](https://www.udemy.com/course/dartlang)
+- [Dart Programming Tutorial \| Learn the Dart for Flutter](https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter)
+
+### 📺 YouTube
+- [Dart Programming in 4 hours \| Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w) - Mike Dane
+- [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) - Mahmud Ahsan (FreeCodeCamp)
+- [Free Dart Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVR2FiAS7TTCT_n2mDhwISE) - Vandad Nahavandipoor
+
+### 🌐 Programming-Books.io
+- [Essential Dart](https://www.programming-books.io/essential/dart) - Krzysztof Kowalczyk
+
+### 📄 Riptutorial.com
+- [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 
 
