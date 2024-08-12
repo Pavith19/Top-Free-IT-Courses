@@ -540,6 +540,74 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 ### 📄 Riptutorial.com
 - [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow Documentation (PDF)
 
+---
+
+## [Data Science]()
+
+### 🎓 Alison
+* [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised)
+
+### 🎓 Coursera
+* [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+* [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks
+
+### 🎓 CognitiveClass.ai
+* [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python)
+* [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science)
+* [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
+
+### 🎓 EdX
+* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+
+### 📺 FreeCodeCamp
+* [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30) - Barton Poulson
+* [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu
+* [Data Build Tool (dbt)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) - Kahan Data Solutions
+* [Data Engineering](https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO) - Kahan Data Solutions
+* [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
+
+### 📺 Great Learning
+* [Hadoop Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit)
+* [Hive Tutorial](https://www.youtube.com/watch?v=MLDcapDQba4)
+
+### 🎓 Kaggle
+* [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - Rachael Tatman
+* [Data Visualization](https://www.kaggle.com/learn/data-visualization) - Alexis Cook
+
+### 🎓 MIT OpenCourseWare
+* [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell
+
+### 🎓 Saylor Academy
+* [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504)
+
+### 🎓 Simplilearn
+* [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
+
+### 🎓 Udacity
+* [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech
+* [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) - Facebook
+* [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+* [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+
+### 🎓 Udemy
+* [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/)
+
+### 🎓 Waikato University
+* [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+* [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
+
+### 🎓 Jovian
+* [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas)
+
+### 🎓 Microsoft
+* [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners)
+
+### 🎓 SoloLearn
+* [Learn Data Science](https://www.sololearn.com/learning/1093)
+
+### 🎓 GitHub
+* [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Amaral_Lab_Intro_to_Data_Science) - Luis Amaral, Helio Tejedor, Luiz Alves
 
 
 
