@@ -5,136 +5,111 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 > **Feel free to** ⭐ **Star**, 🍴 **Fork**, and 📤 **Share** this repository to help others in the community.  
 ---
 
-## 📚 Index
+## 📚 Course Index
 
-* [MOOC](#mooc)
-* [Algorithms & Data Structures](#algorithms--data-structures)
-* [Android](#android)
-* [APL](#apl)
-* [Artificial Intelligence](#artificial-intelligence)
-* [Assembly](#assembly)
-* [AutoIt](#autoit)
-* [Bash / Shell](#bash--shell)
-* [Blockchain](#blockchain)
-* [C](#c)
-* [C#](#csharp)
-* [C++](#cpp)
-* [Clojure](#clojure)
-* [Cloud Computing](#cloud-computing)
-    * [AWS](#aws)
-    * [Azure](#azure)
-    * [IBM](#ibm)
-* [Compilers](#compilers)
-* [Computer Organization and Architecture](#computer-organization-and-architecture)
-* [Computer Science](#computer-science)
-* [Cryptography](#cryptography)
-* [CUDA](#cuda)
-* [Dart](#dart)
-* [Data Science](#data-science)
-* [Databases](#databases)
-    * [NoSQL](#nosql)
-    * [SQL](#sql)
-* [Deep Learning](#deep-learning)
-* [DevOps](#devops)
-    * [Ansible](#ansible)
-    * [Chef](#chef)
-    * [Jenkins](#jenkins)
-* [Digital Electronics](#digital-electronics)
-* [Docker](#docker)
-* [Elastic](#elastic)
-* [Flutter](#flutter)
-* [Fortran](#fortran)
-* [Game Development](#game-development)
-* [Git](#git)
-* [Go](#go)
-* [Haskell](#haskell)
-* [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
-* [iOS](#ios)
-* [Java](#java)
-* [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
-    * [D3.js](#d3js)
-    * [Electron](#electron)
-    * [jQuery](#jquery)
-    * [Next.js](#nextjs)
-    * [NodeJS](#nodejs)
-    * [React](#react)
-    * [React Native](#react-native)
-    * [Redux](#redux)
-    * [Svelte](#svelte)
-    * [Three.js](#threejs)
-    * [Vue.js](#vuejs)
-    * [Webpack](#webpack)
-* [Julia](#julia) 
-* [Kotlin](#kotlin)
-* [Kubernetes](#kubernetes)
-* [Linux](#linux)
-* [Lua](#lua)
-* [Machine Learning](#machine-learning)
-* [Markdown](#markdown)
-* [Matlab](#matlab)
-    * [Simulink](#simulink)
-* [Misc](#misc)
-* [.NET](#net)
-* [Networking](#networking)
-* [Objective-C](#objective-c)
-* [OCaml](#ocaml)
-* [Operating Systems](#operating-systems)
-* [Perl](#perl)
-* [Pharo](#pharo)
-* [PHP](#php)
-* [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
-* [Processing](#processing)
-* [Python](#python)
-    * [Django](#django)
-    * [Flask](#flask)
-    * [Jupyter](#jupyter)
-* [QB64](#qb64)
-* [R](#r)
-* [Redis](#redis)
-* [Robotics](#robotics)
-* [Ruby](#ruby)
-* [Rust](#rust)
-* [Scala](#scala)
-* [Security](#security)
-* [Software Engineering](#software-engineering)
-* [Solidity](#solidity)
-* [Spark](#spark)
-* [Swift](#swift)
-    * [Vapor](#vapor)
-* [System Design](#system-design)
-* [Terraform](#terraform)
-* [Theory](#theory)
-* [TypeScript](#typescript)
-    * [Angular](#angular)
-    * [Deno](#deno)
-* [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
-* [Web Development](#web-development)
-* [Web3](#web3)
-* [YAML](#yaml)
-
----
-
-### MOOC
-Massive Open Online Courses
-
-* [MOOC org](https://www.mooc.org/)
-* [class central](https://www.classcentral.com)
-* [Codecademy](https://www.codecademy.com)
-* [Coursera](https://www.coursera.org)
-* [Datacamp](https://www.datacamp.com)
-* [DevDocs](https://devdocs.io)
-* [edX](https://www.edx.org)
-* [freeCodeCamp](https://www.freecodecamp.org)
-* [FutureLearn](https://www.futurelearn.com)
-* [IITBombayX (IITBX)](https://www.iitbombayx.in)
-* [Khan Academy](https://www.khanacademy.org)
-* [LearnWeb3 DAO | Become a Web3 Developer for Free](https://learnweb3.io)
-* [MIT OCW](http://ocw.mit.edu)
-* [MOOC.fi](https://www.mooc.fi/en/)
-* [NPTEL](https://onlinecourses.nptel.ac.in)
-* [openHPI](https://open.hpi.de)
-* [openSAP](https://open.sap.com)
-* [Platzi](https://courses.platzi.com)
-* [Udacity](https://www.udacity.com)
+- **[MOOC](#mooc)**
+- **[Algorithms & Data Structures](#algorithms--data-structures)**
+- **[Android](#android)**
+- **[APL](#apl)**
+- **[Artificial Intelligence](#artificial-intelligence)**
+- **[Assembly](#assembly)**
+- **[AutoIt](#autoit)**
+- **[Bash / Shell](#bash--shell)**
+- **[Blockchain](#blockchain)**
+- **[C](#c)**
+- **[C#](#csharp)**
+- **[C++](#cpp)**
+- **[Clojure](#clojure)**
+- **[Cloud Computing](#cloud-computing)**
+  - **[AWS](#aws)**
+  - **[Azure](#azure)**
+  - **[IBM](#ibm)**
+- **[Compilers](#compilers)**
+- **[Computer Organization and Architecture](#computer-organization-and-architecture)**
+- **[Computer Science](#computer-science)**
+- **[Cryptography](#cryptography)**
+- **[CUDA](#cuda)**
+- **[Dart](#dart)**
+- **[Data Science](#data-science)**
+- **[Databases](#databases)**
+  - **[NoSQL](#nosql)**
+  - **[SQL](#sql)**
+- **[Deep Learning](#deep-learning)**
+- **[DevOps](#devops)**
+  - **[Ansible](#ansible)**
+  - **[Chef](#chef)**
+  - **[Jenkins](#jenkins)**
+- **[Digital Electronics](#digital-electronics)**
+- **[Docker](#docker)**
+- **[Elastic](#elastic)**
+- **[Flutter](#flutter)**
+- **[Fortran](#fortran)**
+- **[Game Development](#game-development)**
+- **[Git](#git)**
+- **[Go](#go)**
+- **[Haskell](#haskell)**
+- **[HTML and CSS](#html-and-css)**
+  - **[Bootstrap](#bootstrap)**
+- **[iOS](#ios)**
+- **[Java](#java)**
+- **[JavaScript](#javascript)**
+  - **[AngularJS](#angularjs)**
+  - **[D3.js](#d3js)**
+  - **[Electron](#electron)**
+  - **[jQuery](#jquery)**
+  - **[Next.js](#nextjs)**
+  - **[NodeJS](#nodejs)**
+  - **[React](#react)**
+  - **[React Native](#react-native)**
+  - **[Redux](#redux)**
+  - **[Svelte](#svelte)**
+  - **[Three.js](#threejs)**
+  - **[Vue.js](#vuejs)**
+  - **[Webpack](#webpack)**
+- **[Julia](#julia)**
+- **[Kotlin](#kotlin)**
+- **[Kubernetes](#kubernetes)**
+- **[Linux](#linux)**
+- **[Lua](#lua)**
+- **[Machine Learning](#machine-learning)**
+- **[Markdown](#markdown)**
+- **[Matlab](#matlab)**
+  - **[Simulink](#simulink)**
+- **[Misc](#misc)**
+- **[.NET](#net)**
+- **[Networking](#networking)**
+- **[Objective-C](#objective-c)**
+- **[OCaml](#ocaml)**
+- **[Operating Systems](#operating-systems)**
+- **[Perl](#perl)**
+- **[Pharo](#pharo)**
+- **[PHP](#php)**
+- **[PLC - Programmable Logic Controllers](#plc---programmable-logic-controllers)**
+- **[Processing](#processing)**
+- **[Python](#python)**
+  - **[Django](#django)**
+  - **[Flask](#flask)**
+  - **[Jupyter](#jupyter)**
+- **[QB64](#qb64)**
+- **[R](#r)**
+- **[Redis](#redis)**
+- **[Robotics](#robotics)**
+- **[Ruby](#ruby)**
+- **[Rust](#rust)**
+- **[Scala](#scala)**
+- **[Security](#security)**
+- **[Software Engineering](#software-engineering)**
+- **[Solidity](#solidity)**
+- **[Spark](#spark)**
+- **[Swift](#swift)**
+  - **[Vapor](#vapor)**
+- **[System Design](#system-design)**
+- **[Terraform](#terraform)**
+- **[Theory](#theory)**
+- **[TypeScript](#typescript)**
+  - **[Angular](#angular)**
+  - **[Deno](#deno)**
+- **[Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)**
+- **[Web Development](#web-development)**
+- **[Web3](#web3)**
+- **[YAML](#yaml)**
