@@ -268,4 +268,25 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 - [Learn How to Program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 
+## APL Resources
+
+### Dyalog 🎓
+
+- **[APL Course](https://course.dyalog.com)**  
+  A comprehensive course designed by Dyalog to introduce you to APL, ideal for beginners.
+  
+- **[Dyalog APL Tutor](https://tutorial.dyalog.com)**  
+  An interactive tutorial from Dyalog that helps you learn the basics of APL through hands-on exercises.
+
+### APL Wiki 🎓
+
+- **[APL Cultivation](https://aplwiki.com/wiki/APL_Cultivation) - Adám Brudzewsky**  
+  A collection of advanced APL topics aimed at cultivating and enhancing your APL skills.
+
+### YouTube 📺
+
+- **[Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão**  
+  A unique video series that teaches APL in the context of neural networks, suitable for those looking to explore advanced applications of APL.
+
+
 
