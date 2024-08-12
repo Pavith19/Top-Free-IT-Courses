@@ -300,7 +300,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099)**  
   A course on the fundamentals of AI, available through Microsoft Azure on Udacity.
 
-### YouTube Playlists 📺
+### YouTube 📺
 
 - **[Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino**  
   A playlist covering Ambient Intelligence from the AML-2018 series.
@@ -336,6 +336,33 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 - **[MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston**  
   An introductory AI course from MIT OpenCourseWare, featuring Prof. Patrick Henry Winston.
+
+## Bash / Shell Resources
+
+### Udemy 🎓
+
+- **[Bash Basics for Cloud Computing](https://www.udemy.com/course/bash-basics-for-cloud-computing/)** - Kumulus Technologies
+
+### YouTube 📺
+
+- **[Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM)** - Linuxhint
+  
+- **[How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)** - vector-of-bool
+  
+- **[Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)** - The Bad Tutorials
+  
+- **[Shell Scripting Tutorial \| Shell Scripting Crash Course \| Linux Certification Training \| Edureka](https://www.youtube.com/watch?v=GtovwKDemnI)** - edureka!
+  
+- **[Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)** - ProgrammingKnowledge
+
+### Ryans Tutorial 🎓
+
+- **[Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)**
+
+### Bento 🎓
+
+- **[Bento Shell Track](https://bento.io/topic/shell)** - Jon Chan
+
 
 
 
