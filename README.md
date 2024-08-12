@@ -3,7 +3,6 @@
 Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides an extensive list of free online courses for IT professionals, developers, and enthusiasts. Explore a wide range of topics from beginner to advanced levels, across multiple domains.
 
 > **Feel free to** ⭐ **Star**, 🍴 **Fork**, and 📤 **Share** this repository to help others in the community.  
----
 
 ## 📚 Recommended Learning Platforms 💻 
 
@@ -34,7 +33,6 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Reddit Programming](https://www.reddit.com/r/programming/)** - Discussions, resources, and news related to programming.
 - **[Dev.to](https://dev.to)** - Community-driven platform for developers to share knowledge and experiences.
 
----
 
 ## 📚 Course Index
 
