@@ -42,7 +42,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Artificial Intelligence](#artificial-intelligence)**
 - **[Bash / Shell](#bash--shell)**
 - **[Blockchain](#blockchain)**
-- **[C](#c)**
+- **[C](#c--programming)**
 - **[C#](#csharp)**
 - **[C++](#cpp)**
 - **[Clojure](#clojure)**
