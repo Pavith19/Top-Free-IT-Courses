@@ -227,7 +227,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-## Android 📱
+## Android 
 
 ### Udacity 🎓
 - [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
@@ -268,7 +268,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 - [Learn How to Program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 
-## APL Resources
+## APL 
 
 ### Dyalog 🎓
 
