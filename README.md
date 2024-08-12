@@ -1,14 +1,8 @@
 # Top IT Free Courses
 
-[![Star](https://img.shields.io/github/stars/your-username/top-it-free-courses?style=social)](https://github.com/your-username/top-it-free-courses/stargazers)
-[![Fork](https://img.shields.io/github/forks/your-username/top-it-free-courses?style=social)](https://github.com/your-username/top-it-free-courses/network/members)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/asadravian)
-
 Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides an extensive list of free online courses for IT professionals, developers, and enthusiasts. Explore a wide range of topics from beginner to advanced levels, across multiple domains.
 
 > **Feel free to** ⭐ **Star**, 🍴 **Fork**, and 📤 **Share** this repository to help others in the community.  
-> Stay connected and inbox for free career coaching via [LinkedIn](https://linkedin.com/in/asadravian).
-
 ---
 
 ## 📚 Index
