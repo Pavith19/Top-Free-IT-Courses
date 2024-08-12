@@ -42,8 +42,6 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Android](#android)**
 - **[APL](#apl)**
 - **[Artificial Intelligence](#artificial-intelligence)**
-- **[Assembly](#assembly)**
-- **[AutoIt](#autoit)**
 - **[Bash / Shell](#bash--shell)**
 - **[Blockchain](#blockchain)**
 - **[C](#c)**
@@ -142,7 +140,6 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - **[Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)**
 - **[Web Development](#web-development)**
 - **[Web3](#web3)**
-- **[YAML](#yaml)**
 
 # 📚 Learning Resources
 
