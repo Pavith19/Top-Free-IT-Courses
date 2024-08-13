@@ -1100,3 +1100,70 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 - [iOS Tutorial](https://www.raywenderlich.com/category/ios)
 
 ---
+
+## [Java]()
+
+### 🎓 MIT Open Learning Library
+- [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about)
+- [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about)
+
+### 🎓 Stanford
+- [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
+
+### 🎓 Udacity
+- [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
+
+### 🎓 Coursera
+- [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)
+
+### 🎓 edX
+- [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) - Will Dinyes
+
+### 🎓 University of Helsinki
+- [Java Programming](https://java-programming.mooc.fi)
+
+### 🎓 javatodev
+- [Building Microservices With Spring Boot – Free Course With Practical Project](https://javatodev.com/building-microservices-with-spring-boot-free-course-with-practical-project/) - Chinthaka Dinadasa
+
+### 🎓 Codename One
+- [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
+
+### 🎓 Sololearn
+- [Learn Java](https://www.sololearn.com/learning/1068) *(email address required)*
+
+### 📺 YouTube
+- [Introduction to Java + DSA](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
+- [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
+- [Java Persistence API (JPA) Complete Tutorial](https://www.youtube.com/playlist?list=PL6oD2syjfW7COL__RNrWl4S97vNcqh3mO) - Giuseppe Scaramuzzino
+- [Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
+- [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code
+- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) - Programming with Mosh
+- [Java Tutorial For Beginners](https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
+- [Object Oriented Programming (OOP) In Java Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
+
+### 🎓 Programiz
+- [Learn Java Programming](https://www.programiz.com/java-programming)
+
+### 🎓 Epicodus Inc.
+- [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017)
+
+### 🎓 Udemy
+- [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial) - John Purcell
+- [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
+- [Java Tutorial For Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell
+- [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh
+- [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib
+
+### 🎓 Sage-Code
+- [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise
+
+### 🎓 NPTEL
+- [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta
+
+### 🎓 MIT OpenCourseWare
+- [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+
+---
+
+
