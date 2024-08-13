@@ -1166,4 +1166,72 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
+## [JavaScript]()
 
+### 🎓 Epicodus Inc.
+- [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript)
+
+### 🎓 Coursera
+- [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web)
+
+### 🎓 Udacity
+- [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
+- [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+
+### 🎓 Scrimba
+- [Introduction to ES6+](https://scrimba.com/learn/introtoes6) - Dylan C. Israel
+- [Learn JavaScript](https://scrimba.com/learn/learnjavascript) - Per Harald Borgen
+- [Learn modern JavaScript](https://scrimba.com/learn/es6) - Beau Carnes (account *required*)
+
+### 🎓 Udemy
+- [JavaScript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton
+- [JavaScript Fundamentals](https://www.udemy.com/course/javascriptfundamentals) - Bharath Thippireddy
+- [JavaScript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien
+- [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/) - Vishwas Gopinath
+
+### 🎓 Bento
+- [Bento JavaScript Learning Track](https://bento.io/topic/javascript)
+
+### 📺 YouTube
+- [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
+- [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer
+- [Creative Coding for Complete Beginners](https://youtube.com/playlist?list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK) - Algorithmic Art
+- [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
+- [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
+- [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function»
+- [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
+- [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
+- [JavaScript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop
+- [JavaScript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop
+- [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
+- [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
+- [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Moshfegh Hamedani
+- [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
+- [JavaScript Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) - Moshfegh Hamedani
+- [Javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko
+- [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - Brad Schiff, LearnWebCode
+- [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
+- [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media
+
+### 🎓 Namaste 
+- [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
+
+### 🎓 learnquery
+- [learn:query](https://learnquery.infinum.com)
+
+---
+
+## [AngularJS]()
+
+### 🎓 Codecademy
+- [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs) (Codecademy account *required*)
+
+### 🎓 Codeschool
+- [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) (Codeschool account *required*)
+
+### 📺 YouTube
+- [AngularJS Tutorial for Beginners](https://www.youtube.com/watch?v=9b9pLgaSQuI) - Yaakov Chaikin (My Lesson)
+- [AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v) - The Net Ninja
+- [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7) - John Lindquist
+
+---
