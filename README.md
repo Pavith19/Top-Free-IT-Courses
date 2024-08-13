@@ -965,3 +965,29 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ### 🎓 A Tour Of Go
 - [A Tour Of Go](https://tour.golang.org/welcome/1)
+
+---
+
+## [Haskell]()
+
+### 🎓 edX
+- [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
+
+### 🎓 RWTH Aachen University
+- [Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
+
+### 🎓 University of Pennsylvania
+- [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
+
+### 🎓 Stanford University
+- [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
+
+### 🎓 Nottingham University
+- [Advanced Functional Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/afp.html) - Graham Hutton
+- [Functional Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pgp.html) - Graham Hutton
+
+### 🎓 Channel 9
+- [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
+
+---
+
