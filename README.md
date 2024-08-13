@@ -826,14 +826,38 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 ## [Elastic]()
 
 ### 🎓 Elastic.co
-- [App Search Fundamentals](https://www.elastic.co/training/app-search-fundamentals)
-- [App Search Web Crawler Fundamentals](https://www.elastic.co/training/app-search-web-crawler-fundamentals)
-- [ECE Fundamentals](https://www.elastic.co/training/ece-fundamentals)
-- [Elastic Security Fundamentals: SIEM](https://www.elastic.co/training/elastic-security-fundamentals-siem)
-- [Kibana for Splunk SPL Users](https://www.elastic.co/training/kibana-for-splunk-spl-users)
-- [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals)
-- [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals)
-- [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals)
+- [App Search Fundamentals](https://www.elastic.co/training/app-search-fundamentals) - Elastic
+- [App Search Web Crawler Fundamentals](https://www.elastic.co/training/app-search-web-crawler-fundamentals) - Elastic
+- [ECE Fundamentals](https://www.elastic.co/training/ece-fundamentals) - Elastic
+- [Elastic Security Fundamentals: SIEM](https://www.elastic.co/training/elastic-security-fundamentals-siem) - Elastic
+- [Kibana for Splunk SPL Users](https://www.elastic.co/training/kibana-for-splunk-spl-users) - Elastic
+- [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals) - Elastic
+- [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals) - Elastic
+- [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals) - Elastic
+
+---
+
+## [Flutter]()
+
+### 📺 YouTube
+- [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
+- [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
+- [Flutter State Management Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO) - Vandad Nahavandipoor
+- [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - The Net Ninja
+- [Free Flutter Animations Course](https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - The Net Ninja
+- [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor
+
+### 🎓 Udacity
+- [Flutter Tutorial](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Matt Sullivan, James Williams, Mary Xia
+
+### 🎓 Udemy
+- [Flutter Tutorial for Beginners](https://www.udemy.com/course/learn-flutter-beginners-course) - Mayuresh Wankhede
+
+### 🎓 Flutter Crash Course
+- [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*
+
+### 🎓 Solute Labs
+- [Flutter Tutorial for Beginners](https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide) - Solute Labs
 
 ---
 
