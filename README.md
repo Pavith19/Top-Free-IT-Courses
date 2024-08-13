@@ -861,7 +861,7 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
-##  [Game Development]()
+## [Game Development]()
 
 ### 📺 YouTube 
 
@@ -899,5 +899,69 @@ Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides
 
 ---
 
+## [Git]() 
 
+### 📺 YouTube 
 
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha
+- [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
+- [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org
+- [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
+- [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) - The Net Ninja
+- [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) - Tobias Günther
+- [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
+
+### 🎓 Bento
+- [Bento Git Learning Track](https://bento.io/topic/git)
+- [Bento GitHub Learning Track](https://bento.io/topic/github)
+
+### 🎓 GitKraken
+- [Foundations of Git - Certification Course](https://learn.gitkraken.com/courses/git-foundations) - Axosoft *(account or email address required)*
+
+### 🎓 Eduonix Learning Solutions
+- [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi *(account or email address required)*
+
+### 🎓 Udemy
+- [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) - Kalob Taulien
+
+### 🎓 Udacity
+- [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+
+### 🎓 Microsoft Learn
+- [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
+
+### 🎓 Coursera
+- [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google
+
+### 🎓 Atlassian
+- [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+
+---
+
+## [Go]()
+
+### 📺 YouTube
+- [Go Programming Language Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij) - ProgrammingKnowledge
+- [Golang | Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
+- [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
+- [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
+- [Golang Tutorial for Beginners | Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I) - Nana Janashia (TechWorld with Nana)
+- [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
+- [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
+
+### 🎓 Golangr.com
+- [Learn Go | Learn Go Programming](https://golangr.com)
+
+### 🎓 GeeksforGeeks
+- [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/)
+
+### 🎓 Gophercises
+- [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun *(email address required)*
+
+### 🎓 GitHub
+- [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima, et al.
+
+### 🎓 A Tour Of Go
+- [A Tour Of Go](https://tour.golang.org/welcome/1)
