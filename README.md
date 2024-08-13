@@ -1,4 +1,4 @@
-# Top IT Free Courses
+# Top Free IT Courses
 
 Welcome to the **Top IT Free Courses** repository! 🎓 This collection provides an extensive list of free online courses for IT professionals, developers, and enthusiasts. Explore a wide range of topics from beginner to advanced levels, across multiple domains.
 
